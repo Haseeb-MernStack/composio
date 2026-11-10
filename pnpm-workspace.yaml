@@ -30,18 +30,18 @@ catalog:
   '@effect/platform-node-shared': ^0.57.1
   '@effect/vitest': ^0.27.0
   '@mastra/core': ^1.0.4
-  '@modelcontextprotocol/sdk': ^1.25.2
+  '@modelcontextprotocol/sdk': ^1.32.0
   ai: ^6.0.27
   effect: ^3.19.15
   hono: ^4.11.4
   openai: ^6.16.0
-  pnpm: ^10.28.0
+  pnpm: ^10.34.5
   publint: ^0.3.16
   tsdown: ^0.18.4
   tsx: ^4.20.5
   typescript: ^5.9.2
   uuid: ^13.0.0
-  vitest: ^3.2.4
+  vitest: ^5.1.0
   wrangler: ^4.37.0
   zod: ^4.1.0
   zod-to-json-schema: ^3.25.1
